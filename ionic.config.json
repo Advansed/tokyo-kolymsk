@@ -1,0 +1,7 @@
+{
+  "name": "tokyo-kolymsk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
